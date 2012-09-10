@@ -1,0 +1,111 @@
+[submodule "framework"]
+	path = framework
+	url = git@github.com:RBSChange/framework.git
+[submodule "libs/zf2"]
+	path = libs/zf2
+	url = git://github.com/zendframework/zf2.git
+[submodule "libs/ZendOAuth"]
+	path = libs/ZendOAuth
+	url = git://github.com/zendframework/ZendOAuth.git
+[submodule "modules/catalog"]
+	path = modules/catalog
+	url = git@github.com:RBSChange/modules.catalog.git
+[submodule "modules/comment"]
+	path = modules/comment
+	url = git@github.com:RBSChange/modules.comment.git
+[submodule "modules/contactcard"]
+	path = modules/contactcard
+	url = git@github.com:RBSChange/modules.contactcard.git
+[submodule "modules/customer"]
+	path = modules/customer
+	url = git@github.com:RBSChange/modules.customer.git
+[submodule "modules/dashboard"]
+	path = modules/dashboard
+	url = git@github.com:RBSChange/modules.dashboard.git
+[submodule "modules/filter"]
+	path = modules/filter
+	url = git@github.com:RBSChange/modules.filter.git
+[submodule "modules/form"]
+	path = modules/form
+	url = git@github.com:RBSChange/modules.form.git
+[submodule "modules/generic"]
+	path = modules/generic
+	url = git@github.com:RBSChange/modules.generic.git
+[submodule "modules/i18n"]
+	path = modules/i18n
+	url = git@github.com:RBSChange/modules.i18n.git
+[submodule "modules/list"]
+	path = modules/list
+	url = git@github.com:RBSChange/modules.list.git
+[submodule "modules/markergas"]
+	path = modules/markergas
+	url = git@github.com:RBSChange/modules.markergas.git
+[submodule "modules/media"]
+	path = modules/media
+	url = git@github.com:RBSChange/modules.media.git
+[submodule "modules/mysqlindexer"]
+	path = modules/mysqlindexer
+	url = git@github.com:RBSChange/modules.mysqlindexer.git
+[submodule "modules/notification"]
+	path = modules/notification
+	url = git@github.com:RBSChange/modules.notification.git
+[submodule "modules/order"]
+	path = modules/order
+	url = git@github.com:RBSChange/modules.order.git
+[submodule "modules/payment"]
+	path = modules/payment
+	url = git@github.com:RBSChange/modules.payment.git
+[submodule "modules/preferences"]
+	path = modules/preferences
+	url = git@github.com:RBSChange/modules.preferences.git
+[submodule "modules/richtext"]
+	path = modules/richtext
+	url = git@github.com:RBSChange/modules.richtext.git
+[submodule "modules/rss"]
+	path = modules/rss
+	url = git@github.com:RBSChange/modules.rss.git
+[submodule "modules/seo"]
+	path = modules/seo
+	url = git@github.com:RBSChange/modules.seo.git
+[submodule "modules/shipping"]
+	path = modules/shipping
+	url = git@github.com:RBSChange/modules.shipping.git
+[submodule "modules/skin"]
+	path = modules/skin
+	url = git@github.com:RBSChange/modules.skin.git
+[submodule "modules/solrsearch"]
+	path = modules/solrsearch
+	url = git@github.com:RBSChange/modules.solrsearch.git
+[submodule "modules/task"]
+	path = modules/task
+	url = git@github.com:RBSChange/modules.task.git
+[submodule "modules/theme"]
+	path = modules/theme
+	url = git@github.com:RBSChange/modules.theme.git
+[submodule "modules/uixul"]
+	path = modules/uixul
+	url = git@github.com:RBSChange/modules.uixul.git
+[submodule "modules/useractionlogger"]
+	path = modules/useractionlogger
+	url = git@github.com:RBSChange/modules.useractionlogger.git
+[submodule "modules/users"]
+	path = modules/users
+	url = git@github.com:RBSChange/modules.users.git
+[submodule "modules/videos"]
+	path = modules/videos
+	url = git@github.com:RBSChange/modules.videos.git
+[submodule "modules/website"]
+	path = modules/website
+	url = git@github.com:RBSChange/modules.website.git
+[submodule "modules/workflow"]
+	path = modules/workflow
+	url = git@github.com:RBSChange/modules.workflow.git
+[submodule "modules/zone"]
+	path = modules/zone
+	url = git@github.com:RBSChange/modules.zone.git
+[submodule "modules/compatibility"]
+	path = modules/compatibility
+	url = git@github.com:RBSChange/modules.compatibility.git
+[submodule "modules/brand"]
+	path = modules/brand
+	url = ssh://changegit@10.199.99.148/home/changegit/repository/modules.brand.git
